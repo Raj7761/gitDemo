@@ -1,3 +1,4 @@
 
 hellow from text file 3 
-using amend on 3rd text file
+using amend 
+
